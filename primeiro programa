@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main(){
+    
+    char valor[]="caramba";
+    printf("Hello World%s\n",valor);
+
+}
